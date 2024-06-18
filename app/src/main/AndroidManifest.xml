@@ -13,6 +13,9 @@
         android:theme="@style/Theme.App_Java_001"
         tools:targetApi="31">
         <activity
+            android:name=".thereActivity"
+            android:exported="false" />
+        <activity
             android:name=".SecondActivity"
             android:exported="false" />
         <activity
