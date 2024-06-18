@@ -90,7 +90,7 @@
         android:id="@+id/button"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:onClick="@string/button_showactivity_text"
+        android:onClick="ShowActivity"
         android:text="@string/button_showactivity_text" />
 
 </LinearLayout>
